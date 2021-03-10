@@ -6,7 +6,7 @@ const components = [];
 
 @NgModule({
   imports: [
-    HttpClientModule,
+      HttpClientModule,
   ],
   declarations: components,
   exports: components,
